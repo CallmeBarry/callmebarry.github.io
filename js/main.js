@@ -57,7 +57,7 @@ require([], function (){
         var tags = $(".tagcloud a");
         for(var i = 0; i < tags.length; i++){
             var num = Math.floor(Math.random()*7);
-            tags.eq(i).addClass("color" + num);
+            tags.eq(i).addClass("color"+num );
         }
         $(".article-category a:nth-child(-n+2)").attr("class", "color0");
     }
@@ -144,7 +144,7 @@ require([], function (){
     var colorList = ["#181818"];
     var id = Math.ceil(Math.random()*(colorList.length-1));
     // PC
-    $("#container .left-col .overlay").css({"background-color": colorList[id],"opacity": .3});
+    $("#container .left-col .overlay").css({"background-color": colorList[id],"opacity": .7});
     // Mobile
     $("#container #mobile-nav .overlay").css({"background-color": colorList[id],"opacity": .7});
 

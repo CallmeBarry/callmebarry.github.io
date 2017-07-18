@@ -23,6 +23,12 @@
       <content type="html"><![CDATA[<p>你好，博客搭建</p>
 ]]></content>
       
+        <categories>
+            
+            <category> 123 </category>
+            
+        </categories>
+        
         
         <tags>
             
