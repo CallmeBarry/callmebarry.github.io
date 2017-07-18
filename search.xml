@@ -3,6 +3,20 @@
   
     
     <entry>
+      <title><![CDATA[第二次发表博客]]></title>
+      <url>/2017/07/18/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%8F%91%E8%A1%A8%E5%8D%9A%E5%AE%A2/</url>
+      <content type="html"></content>
+      
+        
+        <tags>
+            
+            <tag> ta </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[第一次]]></title>
       <url>/2017/07/15/%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
       <content type="html"><![CDATA[<p>你好，博客搭建</p>
@@ -11,7 +25,22 @@
         
         <tags>
             
-            <tag> 第一次博客创建 </tag>
+            <tag> first </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第二次]]></title>
+      <url>/2017/07/15/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%8D%9A%E5%AE%A2/</url>
+      <content type="html"><![CDATA[<p>发表博客</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> ta </tag>
             
         </tags>
         
