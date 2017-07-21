@@ -7,9 +7,9 @@
       <url>/2017/07/15/%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
       <content type="html"><![CDATA[<p>第一次在github上建博客站，感觉一切都太神奇了，原来还可以这么玩，然后自己又百度了一番，原来不止hexo,还有jekyll等等，这些大体都是通过本地修改写博客，生成静态页面，然后上传上服务器主机，达到博客的样子，不需要数据库之类的<a id="more"></a></p>
 <h2 id="总结一下"><a href="#总结一下" class="headerlink" title="总结一下"></a>总结一下</h2><h2 id="此次用的是hexo-github搭建的本博客网站，hexo有许多样式主题，改个配置就能更换一套主题，so-easy-下面我就说一下我的建站过程遇到的一些问题"><a href="#此次用的是hexo-github搭建的本博客网站，hexo有许多样式主题，改个配置就能更换一套主题，so-easy-下面我就说一下我的建站过程遇到的一些问题" class="headerlink" title="此次用的是hexo+github搭建的本博客网站，hexo有许多样式主题，改个配置就能更换一套主题，so easy 下面我就说一下我的建站过程遇到的一些问题"></a>此次用的是hexo+github搭建的本博客网站，hexo有许多样式主题，改个配置就能更换一套主题，so easy 下面我就说一下我的建站过程遇到的一些问题</h2><ul>
-<li>准备一个github账号，电脑下载git软件</li>
-<li>安装git软件，傻瓜式操作，一路next下去，最后安装完毕，最后的效果就是要随便在文件夹右键有“Git Bash Here”:<img src="20170719_1.PNG" alt="img">,这就说明git安装成功了。</li>
-<li></li>
+<li>一切命令在这运行<img src="20170719_1.PNG" alt="img">，不用dos命令窗口。</li>
+<li>CNAME文件你可以在github上创建，或者在生成的文件public目录下创建</li>
+<li>给一个比较详细的<a href="http://www.lovebxm.com/2017/05/30/buildBlog/" target="_blank" rel="external">搭建hexo博客</a>的地址，希望能帮到你们</li>
 </ul>
 ]]></content>
       
